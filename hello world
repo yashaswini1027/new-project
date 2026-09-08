@@ -1,0 +1,6 @@
+print("hello world")
+input("n")
+if n>1:
+  print("n")
+else:
+  break
